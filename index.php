@@ -19,10 +19,10 @@
 </head>
 
 <body>
-    <!-- header -->
+    <!-- Header -->
     <header>
 
-        <a href="#" class="logo"><img src="img/logo1.png" alt="logo">
+        <a href="#" class="logo"><img src=" " alt="logo">
         </a>
 
         <div id="menu" class="fas fa-bars"></div>
@@ -47,3 +47,17 @@
 
     </header>
 
+  <!-- Home Page -->
+
+    <section class="home" id="home">
+        <div class="video-container">
+            <video src="img/v1.mp4" type="video/mp4" autoplay loop muted class="vid"></video>
+        </div>
+
+        <div class="content">
+            <h1>Find A Delicious Meal to Make!</h1>
+            <p>We have recipes and tutorials on how to make each one at home.</p>
+            <a href="service.php"><button class="btn">Click Here!</button></a>
+        </div>
+
+    </section>
