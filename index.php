@@ -85,7 +85,67 @@
                 </div>
             </div>
          
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+          <div class="box" data-aos="fade-left">
+                <img src="img/p3.jpg" alt="">
+                <h3>Chocolate Chip Cookies</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/chocolate-chip-cookies"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=3vUtRRZG0xY" class="fab fa-youtube"></a>
+                </div>
+            </div>
+            
+         <div class="box" data-aos="fade-left">
+                <img src="img/p4.jpg" alt="">
+                <h3>Brownies</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/ultimate-brownies"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=lIb_741_dIw" class="fab fa-youtube"></a>
+                </div>
+            </div>
+          
+         <div class="box" data-aos="fade-left">
+                <img src="img/p5.jpg" alt="">
+                <h3>Fried-Chicken Sandwich</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/buttermilk-fried-chicken-sandwich"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=gGnkF1_vHV0" class="fab fa-youtube"></a>
+                </div>
+            </div>
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p6.jpg" alt="">
+                <h3>Chicken Alfredo</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/easy-chicken-alfredo-penne"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=CTTsN3QggDc" class="fab fa-youtube"></a>
+                </div>
+            </div>
+        
+         <div class="box" data-aos="fade-left">
+                <img src="img/p7.jpg" alt="">
+                <h3>Butter Chicken</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/easy-butter-chicken"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=VHfhCXkJh34" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p8.jpg" alt="">
+                <h3>Chicken Fajita Quesadilla</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/chicken-fajita-quesadilla"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/gallary.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
