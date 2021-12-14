@@ -84,3 +84,21 @@
                     <a href="https://www.youtube.com/watch?v=5i-EtJ1erV8" class="fab fa-youtube"></a>
                 </div>
             </div>
+         
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/gallary.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            offset: 60, once: false, duration: 2000,
+            useClassNames: false,
+            disableMutationObserver: false,
+            debounceDelay: 50,
+            throttleDelay: 99,
+        });
+    </script>
+
+</body>
+
+</html>
