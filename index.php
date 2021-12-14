@@ -30,7 +30,6 @@
         <nav class="navbar">
             <a href="#home">Home</a>
             <a href="#recipe">Recipe</a>
-            <a href="#gallery">Gallery</a>
             <a href="#about">About</a>
             <a href="#contact">Contact</a>
             <div class="dropdown">
@@ -50,9 +49,6 @@
   <!-- Home Page -->
 
     <section class="home" id="home">
-        <div class="video-container">
-            <video src="img/v1.mp4" type="video/mp4" autoplay loop muted class="vid"></video>
-        </div>
 
         <div class="content">
             <h1>Find A Delicious Meal to Make!</h1>
@@ -61,3 +57,30 @@
         </div>
 
     </section>
+ 
+  <!-- Recipe Section-->
+
+    <section class="recipe" id="recipe">
+
+        <h1 class="heading">Recipes</h1>
+
+        <div class="box-container">
+
+            <div class="box" data-aos="fade-left">
+                <img src="img/p1.jpg" alt="">
+                <h3>Pizza</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/pizza-dough" class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=sv3TXMSv6Lw" class="fab fa-youtube"></a>
+                </div>
+            </div>
+         
+          <div class="box" data-aos="fade-left">
+                <img src="img/p2.jpg" alt="">
+                <h3>Peppermint Bark</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/peppermint-bark"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=5i-EtJ1erV8" class="fab fa-youtube"></a>
+                </div>
+            </div>
