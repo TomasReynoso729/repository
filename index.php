@@ -1,10 +1,8 @@
 <?php 
  session_start();
 ?>
-
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,48 +12,23 @@
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&display=swap" rel="stylesheet">">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
-
 <body>
     <!-- Header -->
     <header>
-
         <a href="#" class="logo"><img src="img/logo1.png" alt="logo">
         </a>
-
         <div id="menu" class="fas fa-bars"></div>
-
         <nav class="navbar">
-          <a href="#home">Home</a>
-          <a href="#recipe">Recipes</a>
+            <a href="#recipe">Home</a>
   
                 </div>
             </div>
         </nav>
-
     </header>
-
-<!-- Home Page Section-->
-
-    <section class="Home" id="home">
-        <div class="video-container">
-            <video src="img/v1.mp4" type="video/mp4" autoplay loop muted class="vid"></video>
-        </div>
-
-        <div class="content">
-            <h1>Recipe Resort</h1>
-            <p>By Thomas, Avinash, and Talal</p>
-     </div>
-     
-</section>
-
   <!-- Recipe Section-->
-
     <section class="recipe" id="recipe">
-
         <h1 class="heading">Recipes</h1>
-
         <div class="box-container">
-
             <div class="box" data-aos="fade-left">
                 <img src="img/p1.jpg" alt="">
                 <h3>Pizza</h3>
@@ -65,7 +38,35 @@
                 </div>
             </div>
          
+          <div class="box" data-aos="fade-left">
+                <img src="img/p2.jpg" alt="">
+                <h3>Peppermint Bark</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/peppermint-bark"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=5i-EtJ1erV8" class="fab fa-youtube"></a>
+                </div>
+            </div>
+         
+          <div class="box" data-aos="fade-left">
+                <img src="img/p3.jpg" alt="">
+                <h3>Chocolate Chip Cookies</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/chocolate-chip-cookies"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=3vUtRRZG0xY" class="fab fa-youtube"></a>
+                </div>
+            </div>
             
+         <div class="box" data-aos="fade-left">
+                <img src="img/p4.jpg" alt="">
+                <h3>Brownies</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/ultimate-brownies"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=lIb_741_dIw" class="fab fa-youtube"></a>
+                </div>
+            </div>
           
          <div class="box" data-aos="fade-left">
                 <img src="img/p5.jpg" alt="">
@@ -106,7 +107,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-        
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p9.jpg" alt="">
                 <h3>Brocolli Cheddar Soup</h3>
@@ -116,7 +117,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p10.jpg" alt="">
                 <h3>Shrimp Tacos</h3>
@@ -126,7 +127,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
           <div class="box" data-aos="fade-left">
                 <img src="img/p11.jpg" alt="">
                 <h3>Protien-Packed Chili</h3>
@@ -136,7 +137,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p12.jpg" alt="">
                 <h3>Roasted Chicken & Sweet Potatoes</h3>
@@ -146,7 +147,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p13.jpg" alt="">
                 <h3>Sweet & Sour Pork</h3>
@@ -156,7 +157,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
           <div class="box" data-aos="fade-left">
                 <img src="img/p14.jpg" alt="">
                 <h3>Honey Garlic Salmon & Asparagus</h3>
@@ -166,7 +167,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-          
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p15.jpg" alt="">
                 <h3>Beef & Bean Burritos</h3>
@@ -177,8 +178,26 @@
                 </div>
             </div>  
 
- 
-         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p16.jpg" alt="">
+                <h3>Chocolate Chip Banana Bread</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/one-bowl-chocolate-chip-banana-bread"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+
+         <div class="box" data-aos="fade-left">
+                <img src="img/p17.jpg" alt="">
+                <h3>Apple Pie</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/apple-pie-from-scratch"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p18.jpg" alt="">
                 <h3>Lemon Garlic Shimp Pasta</h3>
@@ -188,7 +207,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-        
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p19.jpg" alt="">
                 <h3>Teriyaki Chicken</h3>
@@ -198,7 +217,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p20.jpg" alt="">
                 <h3>Chicken Tikka Masala</h3>
@@ -208,7 +227,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p21.jpg" alt="">
                 <h3>Chicken Chow Mein</h3>
@@ -218,7 +237,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-        
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p22.jpg" alt="">
                 <h3>Mac 'n' Cheese</h3>
@@ -228,7 +247,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
          <div class="box" data-aos="fade-left">
                 <img src="img/p23.jpg" alt="">
                 <h3>Lasagna</h3>
@@ -238,7 +257,7 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
-         
+
           <div class="box" data-aos="fade-left">
                 <img src="img/p24.jpg" alt="">
                 <h3>Honey Garlic Shrimp Stir-Fry</h3>
@@ -247,49 +266,9 @@
                         class="far fa-newspaper"></a>
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
-            </div>
-         </section>
-         
-     <div class="box" data-aos="fade-left">
-                <img src="img/p2.jpg" alt="">
-                <h3>Peppermint Bark</h3>
-                <div class="icons">
-                    <a href="https://tasty.co/recipe/peppermint-bark"
-                        class="far fa-newspaper"></a>
-                    <a href="https://www.youtube.com/watch?v=5i-EtJ1erV8" class="fab fa-youtube"></a>
-                </div>
-            </div>
+            </div>  
 
-          <div class="box" data-aos="fade-left">
-                <img src="img/p3.jpg" alt="">
-                <h3>Chocolate Chip Cookies</h3>
-                <div class="icons">
-                    <a href="https://tasty.co/recipe/chocolate-chip-cookies"
-                        class="far fa-newspaper"></a>
-                    <a href="https://www.youtube.com/watch?v=3vUtRRZG0xY" class="fab fa-youtube"></a>
-                </div>
-            </div>
-         
-       <div class="box" data-aos="fade-left">
-                <img src="img/p4.jpg" alt="">
-                <h3>Brownies</h3>
-                <div class="icons">
-                    <a href="https://tasty.co/recipe/ultimate-brownies"
-                        class="far fa-newspaper"></a>
-                    <a href="https://www.youtube.com/watch?v=lIb_741_dIw" class="fab fa-youtube"></a>
-                </div>
-            </div>
-         
-     <div class="box" data-aos="fade-left">
-                <img src="img/p4.jpg" alt="">
-                <h3>Brownies</h3>
-                <div class="icons">
-                    <a href="https://tasty.co/recipe/ultimate-brownies"
-                        class="far fa-newspaper"></a>
-                    <a href="https://www.youtube.com/watch?v=lIb_741_dIw" class="fab fa-youtube"></a>
-                </div>
-            </div>
-     
+
          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/gallary.js"></script>
@@ -303,7 +282,5 @@
             throttleDelay: 99,
         });
     </script>
-
 </body>
-
 </html>
