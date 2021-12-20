@@ -25,13 +25,25 @@
         <div id="menu" class="fas fa-bars"></div>
 
         <nav class="navbar">
-            <a href="#recipe">Home</a>
+          <a href="#home">Home</a>   
+          <a href="#recipe">Home</a>
   
                 </div>
             </div>
         </nav>
 
     </header>
+
+<!-- Home Page Section-->
+
+    <section class="home" id="home">
+        <div class="video-container">
+            <video src="img/v1.mp4" type="video/mp4" autoplay loop muted class="vid"></video>
+        </div>
+
+        <div class="content">
+            <h1>Recipe Resort</h1>
+            <p>By Thomas, Avinash, and Talal</p>
 
   <!-- Recipe Section-->
 
