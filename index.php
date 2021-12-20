@@ -119,7 +119,168 @@
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
             </div>  
+        
+         <div class="box" data-aos="fade-left">
+                <img src="img/p9.jpg" alt="">
+                <h3>Brocolli Cheddar Soup</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/one-pot-broccoli-cheddar-soup"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
          
+         <div class="box" data-aos="fade-left">
+                <img src="img/p10.jpg" alt="">
+                <h3>Shrimp Tacos</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/grilled-shrimp-tacos-with-creamy-cilantro-sauce"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+          <div class="box" data-aos="fade-left">
+                <img src="img/p11.jpg" alt="">
+                <h3>Protien-Packed Chili</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/protein-packed-chili"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p12.jpg" alt="">
+                <h3>Roasted Chicken & Sweet Potatoes</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/one-pan-roasted-chicken-and-sweet-potatoes"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p13.jpg" alt="">
+                <h3>Sweet & Sour Pork</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/sweet-and-sour-pork"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+          <div class="box" data-aos="fade-left">
+                <img src="img/p14.jpg" alt="">
+                <h3>Honey Garlic Salmon & Asparagus</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/one-pan-honey-garlic-salmon-asparagus"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+          
+         <div class="box" data-aos="fade-left">
+                <img src="img/p15.jpg" alt="">
+                <h3>Beef & Bean Burritos</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/beef-bean-burritos"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p16.jpg" alt="">
+                <h3>Chocolate Chip Banana Bread</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/one-bowl-chocolate-chip-banana-bread"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+          
+         <div class="box" data-aos="fade-left">
+                <img src="img/p17.jpg" alt="">
+                <h3>Apple Pie</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/apple-pie-from-scratch"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p18.jpg" alt="">
+                <h3>Lemon Garlic Shimp Pasta</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/one-pot-lemon-garlic-shrimp-pasta"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+        
+         <div class="box" data-aos="fade-left">
+                <img src="img/p19.jpg" alt="">
+                <h3>Teriyaki Chicken</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/3-ingredient-teriyaki-chicken"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p20.jpg" alt="">
+                <h3>Chicken Tikka Masala</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/homemade-chicken-tikka-masala"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p21.jpg" alt="">
+                <h3>Chicken Chow Mein</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/one-pot-chicken-chow-mein"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+        
+         <div class="box" data-aos="fade-left">
+                <img src="img/p22.jpg" alt="">
+                <h3>Mac 'n' Cheese</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/easy-one-pot-mac-n-cheese"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+         <div class="box" data-aos="fade-left">
+                <img src="img/p23.jpg" alt="">
+                <h3>Lasagna</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/savoury-lasagna"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+          <div class="box" data-aos="fade-left">
+                <img src="img/p24.jpg" alt="">
+                <h3>Honey Garlic Shrimp Stir-Fry</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/honey-garlic-shrimp-stir-fry"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>  
+         
+        
          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/gallary.js"></script>
