@@ -36,7 +36,7 @@
 
 <!-- Home Page Section-->
 
-    <section class="Home" id="home">
+    <section class="Home" id="Home">
         <div class="video-container">
             <video src="img/v1.mp4" type="video/mp4" autoplay loop muted class="vid"></video>
         </div>
