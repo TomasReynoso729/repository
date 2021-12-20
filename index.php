@@ -25,7 +25,7 @@
         <div id="menu" class="fas fa-bars"></div>
 
         <nav class="navbar">
-          <a href="#Home">Home</a>   
+          <a href="#home">Home</a>   
           <a href="#recipe">Recipe</a>
   
                 </div>
