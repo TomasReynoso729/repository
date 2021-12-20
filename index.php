@@ -25,9 +25,8 @@
         <div id="menu" class="fas fa-bars"></div>
 
         <nav class="navbar">
-          <a href="#home">Home</a>   
-          <a href="#recipe">Meals</a>
-          <a href="#dessert">Desserts</a>
+          <a href="#home">Home</a>
+          <a href="#recipe">Recipes</a>
   
                 </div>
             </div>
@@ -251,15 +250,7 @@
             </div>
          </section>
          
-         <!-- Dessert Section-->
-
-    <section class="Dessert" id="Dessert">
-
-        <h1 class="heading">Dessert</h1>
-
-        <div class="box-container">
-
-          <div class="box" data-aos="fade-left">
+     <div class="box" data-aos="fade-left">
                 <img src="img/p2.jpg" alt="">
                 <h3>Peppermint Bark</h3>
                 <div class="icons">
@@ -268,8 +259,8 @@
                     <a href="https://www.youtube.com/watch?v=5i-EtJ1erV8" class="fab fa-youtube"></a>
                 </div>
             </div>
-                       
-         <div class="box" data-aos="fade-left">
+
+          <div class="box" data-aos="fade-left">
                 <img src="img/p3.jpg" alt="">
                 <h3>Chocolate Chip Cookies</h3>
                 <div class="icons">
@@ -279,7 +270,7 @@
                 </div>
             </div>
          
-         <div class="box" data-aos="fade-left">
+       <div class="box" data-aos="fade-left">
                 <img src="img/p4.jpg" alt="">
                 <h3>Brownies</h3>
                 <div class="icons">
@@ -289,27 +280,16 @@
                 </div>
             </div>
          
-         <div class="box" data-aos="fade-left">
-                <img src="img/p16.jpg" alt="">
-                <h3>Chocolate Chip Banana Bread</h3>
+     <div class="box" data-aos="fade-left">
+                <img src="img/p4.jpg" alt="">
+                <h3>Brownies</h3>
                 <div class="icons">
-                    <a href="https://tasty.co/recipe/one-bowl-chocolate-chip-banana-bread"
+                    <a href="https://tasty.co/recipe/ultimate-brownies"
                         class="far fa-newspaper"></a>
-                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                    <a href="https://www.youtube.com/watch?v=lIb_741_dIw" class="fab fa-youtube"></a>
                 </div>
             </div>
-                  
-         <div class="box" data-aos="fade-left">
-                <img src="img/p17.jpg" alt="">
-                <h3>Apple Pie</h3>
-                <div class="icons">
-                    <a href="https://tasty.co/recipe/apple-pie-from-scratch"
-                        class="far fa-newspaper"></a>
-                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
-                </div>
-            </div> 
-         
-        
+     
          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/script.js"></script>
     <script src="js/gallary.js"></script>
