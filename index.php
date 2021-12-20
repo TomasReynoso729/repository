@@ -19,7 +19,7 @@
     <!-- Header -->
     <header>
 
-        <a href="#" class="logo"><img src=" " alt="logo">
+        <a href="#" class="logo"><img src="img/logo1.png" alt="logo">
         </a>
 
         <div id="menu" class="fas fa-bars"></div>
