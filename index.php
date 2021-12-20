@@ -44,6 +44,9 @@
         <div class="content">
             <h1>Recipe Resort</h1>
             <p>By Thomas, Avinash, and Talal</p>
+     </div>
+     
+</section>
 
   <!-- Recipe Section-->
 
