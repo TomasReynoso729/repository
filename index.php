@@ -278,7 +278,27 @@
                         class="far fa-newspaper"></a>
                     <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
                 </div>
-            </div>  
+            </div>
+           
+         <div class="box" data-aos="fade-left">
+                <img src="img/p24.jpg" alt="">
+                <h3>Pineapple Maple Glazed Ham</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/pineapple-maple-glazed-ham"
+                        class="far fa-newspaper"></a>
+                    <a href="https://www.youtube.com/watch?v=urk37CYz5PU" class="fab fa-youtube"></a>
+                </div>
+            </div>
+                  
+         <div class="box" data-aos="fade-left">
+                <img src="img/p24.jpg" alt="">
+                <h3>Pineapple Maple Glazed Ham</h3>
+                <div class="icons">
+                    <a href="https://tasty.co/recipe/pineapple-maple-glazed-ham"
+                </div>
+            </div>
+         
+         
          
         
          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
